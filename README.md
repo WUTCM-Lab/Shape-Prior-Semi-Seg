@@ -1,3 +1,7 @@
 # Shape-Prior-Semi-Seg
 
-![charts_yujie](https://github.com/WUTCM-Lab/Shape-Prior-Semi-Seg/assets/155703366/489ffcc1-8016-4502-b376-4e9abd514560)
+## Dataset
+
+https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation
+
+https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
